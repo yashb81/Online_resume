@@ -191,20 +191,20 @@ var education = {
         "location": "Rajpura",
         "degree": "Bachelor of Engg. ",
         "majors": ["C", " C++"],
-        "dates": 2018,
+        "dates": "2018",
         "url": "http://www.chitkara.edu.in"
     }, ],
 
     "onlineCourses": [{
             "title": "Front-end web developer",
             "school": "Udacity",
-            "dates": 2017,
+            "dates": "2017",
             "url": "http://www.udacity.com"
         },
         {
             "title": "Full stack web developer",
             "school": "Udacity",
-            "dates": 2017,
+            "dates": "2017",
             "url": "http://www.udacity.com"
         }
     ],
